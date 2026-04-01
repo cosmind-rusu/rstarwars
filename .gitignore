@@ -2,6 +2,8 @@
 /target/
 **/*.rs.bk
 *.pdb
+/release/
+/debug/
 
 # Cargo
 Cargo.lock

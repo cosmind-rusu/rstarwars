@@ -1,1 +1,1 @@
-C:\Users\cosmi\Desktop\rstarwars\target\release\rstarwars.exe: C:\Users\cosmi\Desktop\rstarwars\src\main.rs
+C:\Users\cosmi\Desktop\rstarwars\target\release\rstarwars.exe: C:\Users\cosmi\Desktop\rstarwars\src\game.rs C:\Users\cosmi\Desktop\rstarwars\src\input.rs C:\Users\cosmi\Desktop\rstarwars\src\main.rs C:\Users\cosmi\Desktop\rstarwars\src\renderer.rs C:\Users\cosmi\Desktop\rstarwars\src\screens.rs C:\Users\cosmi\Desktop\rstarwars\src\term_guard.rs
